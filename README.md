@@ -3,7 +3,7 @@
 When we click on the poster on the selected movie the trailer will play in a modal and closes when we click on the space outside the modal.
 </p>
 
-# Installation
+# Installation and launching website
 
 <ul>
 <li>Install Python in your laptop/workstation.
@@ -17,3 +17,13 @@ https://www.python.org/downloads/</li>
 <li>The website will automatically pops up in your default browser.</li>
 <li>If not open the fresh_tomatoes.html page that is created in the folder.</li>
 </ul>
+
+#Snapshots
+1. How the Intial page looks like: 
+
+    ![alt text](https://s3.amazonaws.com/movietrailer535/intial+page.PNG)
+    
+    
+2. How the trailer is playing when clicked on  a movie:  
+
+    ![alt text](https://s3.amazonaws.com/movietrailer535/trailer+playing.PNG)
